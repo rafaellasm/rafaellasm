@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td>
+    <td style="font-size: 16px;">
       Atualmente curso Engenharia de Software na Facint e estou focada em construir minha carreira na área de desenvolvimento. Minha base começou no Senac, onde estudei os fundamentos de TI por um ano e meio, e logo depois passei por um intensivo de seis meses em programação no Instituto PROA. Hoje, sigo evoluindo de forma autodidata, estudando novas tecnologias e aplicando tudo o que aprendo em projetos reais para fortalecer meu portfólio. Sou movida pelo aprendizado contínuo e pela vontade de resolver problemas através do código.
     </td>
-    <td width="160px">
+    <td width="140px">
      <img width="150px" style="border-radius:15px" alt="Image" src="https://github.com/user-attachments/assets/50e96a02-4ade-4a59-b31b-fbfd84d17f5a" />
     </td>
   </tr>
