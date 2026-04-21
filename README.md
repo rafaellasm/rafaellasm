@@ -1,16 +1,41 @@
-## Hi there 👋
+## 🤍 Rafaella Marques
 
-<!--
-**rafaellasm/rafaellasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      Atualmente curso Engenharia de Software na Facint e estou focada em construir minha carreira na área de desenvolvimento. Minha base começou no Senac, onde estudei os fundamentos de TI por um ano e meio, e logo depois passei por um intensivo de seis meses em programação no Instituto PROA. Hoje, sigo evoluindo de forma autodidata, estudando novas tecnologias e aplicando tudo o que aprendo em projetos reais para fortalecer meu portfólio. Sou movida pelo aprendizado contínuo e pela vontade de resolver problemas através do código.
+    </td>
+    <td width="160px">
+     <img width="150px" style="border-radius:15px" alt="Image" src="https://github.com/user-attachments/assets/50e96a02-4ade-4a59-b31b-fbfd84d17f5a" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+<p>
+  <img align="left" alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="JS" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="left" alt="Tailwind" title="Tailwind" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="left" alt="Next" title="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+</p>
+
+<br/><br/>
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rafaellasm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellasm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
+
+
+### 📫 Vamos nos conectar?
+
+<a href="https://www.linkedin.com/in/rafaelladossantosmarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
