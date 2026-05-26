@@ -5,9 +5,6 @@
     <td style="font-size: 20px;">
       Atualmente curso Engenharia de Software na Facint e estou focada em construir minha carreira na área de desenvolvimento. Minha base começou no Senac, onde estudei os fundamentos de TI por um ano e meio, e logo depois passei por um intensivo de seis meses em programação no Instituto PROA. Hoje, sigo evoluindo de forma autodidata, estudando novas tecnologias e aplicando tudo o que aprendo em projetos reais para fortalecer meu portfólio. Sou movida pelo aprendizado contínuo e pela vontade de resolver problemas através do código.
     </td>
-    <td width="130px">
-     <img width="130px" style="border-radius:15px" alt="Image" src="https://github.com/user-attachments/assets/50e96a02-4ade-4a59-b31b-fbfd84d17f5a" />
-    </td>
   </tr>
 </table>
 
@@ -32,7 +29,7 @@
 
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rafaellasm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellasm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaellasm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 
